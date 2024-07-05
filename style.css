@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    line-height: 1.6;
+    background-image:url(back.png) ;
+    
+    
+
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 0.5rem;
+    text-align: center;
+
+}
+
+/*header h1 {
+    margin: 0;
+}*/
+
+header p {
+    margin: 0.5rem 0 0;
+    
+}
+
+section {
+    padding: 2rem;
+    margin: 2rem 0;
+}
+
+img {
+    max-width: 150px;
+    border-radius: 30%;
+    display: block;
+    margin: 0;
+
+}
+
+ /*#skill ul {
+    list-style: none;
+    padding: 0;
+   
+}*/
+
+
+#skills li {
+  color: rgb(245, 242, 242);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*#Projects .project {
+    margin-bottom: 2rem;
+
+}*/
+
+.project img {
+    max-width: 60%;
+    border-radius: 10%;
+    height: auto;
+
+}
+
+#resume a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#resume a:hover {
+    background: #555;
+}
+
+#contact p {
+    margin: 0.5rem 0;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: absolute;
+    width: 100%;
+
+}
+p{
+    color: rgb(244, 244, 238);
+    font-size: large;
+   
+}
+h2{
+    color: white;
+}
+h3{
+    font-family: cursive;
+}
